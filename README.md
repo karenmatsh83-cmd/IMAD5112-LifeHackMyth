@@ -23,13 +23,13 @@ This project uses GitHub for version control with regular commits.
 ## 5. Screenshots
 <!-- Add screenshots here. Take them on your phone/emulator and drag into GitHub -->
 ### Welcome Screen
-![Welcome Screen](screenshots/welcome.png)
+![Welcome Screen](IMAD1.png)
 
 ### Question Screen
-![Question Screen](screenshots/question.png)
+![Question Screen](IMAD2.png)
 
 ### Score Screen
-![Score Screen](screenshots/score.png)
+![Score Screen](IMAD3.png)
 
 ## 6. Demo Video
 Watch the full app demo here: [YouTube Link]
