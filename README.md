@@ -32,7 +32,7 @@ This project uses GitHub for version control with regular commits.
 ![Score Screen](IMAD3.png)
 
 ## 6. Demo Video
-[Click here to watch the app demo](https://youtube.com/shorts/el21kkQdcCI?feature=share)
+[Click here to watch demo video](https://youtube.com/shorts/el21kkQdcCI?feature=share)
 
 ## 7. How to Run
 1. Clone the repo: `git clone https://github.com/karenmatsh83-cmd/IMAD5112-LifeHackMyth`
